@@ -1,4 +1,3 @@
-# Induction-of-Glucose-Transporters
 Python codes for the studies on the pattern of induction of glucose transporters in S.cerevisiae
 
 The results were obtained with a plate reader
